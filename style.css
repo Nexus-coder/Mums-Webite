@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+}
+ 
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:20px 80px 20px 20px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.06);
+    background-color: rgb(230, 228, 228);
+
+}
+
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#navbar a{
+    text-decoration: none;
+    color:black;
+}
+
+#navbar li{
+    list-style:none;
+    padding:10px;
+
+}
+
+#navbar srtyuhiop[]\a:hover{
+    color:white;
+}
+
+
+';lc v'
